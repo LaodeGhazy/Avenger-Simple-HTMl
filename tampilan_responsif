@@ -1,0 +1,65 @@
+<html>
+<head>
+    <script src="validasi.js"></script>
+	<title>CPMKPABW</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    
+	
+	<header>
+		<h1 class="judul">Iron Man</h1>
+		<p class="deskripsi">Laode Ghazy</p>
+	</header>
+	
+	<div class="wrap">
+		<nav class="menu">
+			<ul>
+				<li>
+					<a href="#">Profile</a>
+				</li>
+				<li>
+					<a href="#">Fun Fact</a>
+				</li>
+				<li>
+					<a href="#">Appereance</a>
+				</li>
+			</ul>
+		</nav>
+		<div class="blog">
+			<div class="conteudo">
+				<div class="post-info">
+					Posted by <b>Laode Ghazy</b>
+				</div>
+				<img src="https://images.hdqwalls.com/wallpapers/art-iron-man-2019-3c.jpg">
+				<h1> Who Is Iron Man </h1>
+				<hr>
+				<p>
+          Iron Man, American comic book superhero, a mainstay of Marvel Comics, who first appeared in 1963 in Tales of Suspense no. 39. His creation is officially credited to four people: writer and editor Stan Lee, who plotted the first story; his brother Larry Lieber, who scripted it; artist Don Heck, who drew it; and Jack Kirby, who designed Iron Man’s original armoured battlesuit. Iron Man has appeared as the star of his own comic book series, as a regular guest in other popular comics (most notably in the The Avengers), in animated films and television series, and in live-action motion pictures.				</p>				
+				<a href="#" class="continue-lendo">Selengkapnya →</a>
+			</div>
+			<div class="conteudo">
+				<div class="post-info">
+					Posted by <b>Annisa Fitria</b>
+				</div>
+				<img src="https://cosmicbook.news/sites/default/files/styles/768/public/tom-cruise-iron-man.jpg?itok=ZY0D1vQF&timestamp=1601769230">
+				<h1> Iron Man Multiverse? </h1>
+				<hr>
+				<p>
+Doctor Strange 2 is titled "In The Multiverse Of Madness," so Tom Cruise will be a different Iron Man from a different universe than Robert Downey Jr.'s Tony Stark who recently died in The Avengers: Endgame. What's interesting is that Tom Cruise was actually up to play the MCU's Iron Man at one time as well.
+
+According to YouTuber Grace Randolph, the rumors surrounding Tom Cruise playing Iron Man are true and Feige is trying to make it happen.				</p>				
+				<a href="#" class="continue-lendo">Selengkapnya →</a>
+			</div>
+		</div>
+		
+	</div>
+ 
+</body>
+<body>
+  <footer>
+  <p>Author: Laode Ghazy<br>
+  <a href="mailto:ghazylaode002@gmail.com">ghazylaode002@gmail.com</a></p>
+</footer>
+</body>
+</html>
